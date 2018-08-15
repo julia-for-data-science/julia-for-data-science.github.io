@@ -1,0 +1,23 @@
+title: Juliaでデータサイエンス講座
+email: programmer@haizine.art
+description: >-
+  この講座では一般社団法人データサイエンティスト協会が公開している、スキルチェックリスト 2017年版を参考にしてデータサイエンティストに必要な知識をJulia言語を使って解説していきます。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://julia-for-data-science.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: regonn
+paginate: 5
+paginate_path: "blog/page:num"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - kramdown
+  - jekyll-paginate
+
+timezone: Asia/Tokyo
+include: [".well-known"]
