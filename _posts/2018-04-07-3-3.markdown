@@ -1,0 +1,16 @@
+---
+layout: post
+title: "順列や組合せを式 nPr nCr を用いて計算できる"
+date: 2018-04-07 9:41:28 +0900
+youtube: "W05Jj8fJNrs"
+updated_at: 2018-04-03 09:41:28 +0900
+categories: statistical-mathematical-foundation
+eyecatch_file: "3-3.png"
+series: "統計数理基礎"
+---
+
+<amp-gist
+  data-gistid="dc5abb8c1b731afa6a303a11a10d3efb"
+  layout="fixed-height"
+  height="225">
+</amp-gist>

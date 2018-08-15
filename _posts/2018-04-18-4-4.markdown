@@ -1,0 +1,16 @@
+---
+layout: post
+title: "条件付き確率の意味を説明できる"
+date: 2018-04-18 09:00:00 +0900
+youtube: "dKJz8ujMJHE"
+updated_at: 2018-04-18 09:00:00 +0900
+categories: statistical-mathematical-foundation
+eyecatch_file: "4-4.png"
+series: "統計数理基礎"
+---
+
+<amp-gist
+  data-gistid="b79552ec46d5c785eff3fd8c1747b7e5"
+  layout="fixed-height"
+  height="225">
+</amp-gist>

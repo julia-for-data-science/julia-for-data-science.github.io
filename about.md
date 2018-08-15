@@ -2,17 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+series: "このサイトについて"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+この講座では一般社団法人データサイエンティスト協会が公開している、スキルチェックリスト 2017 年版を参考にしてデータサイエンティストに必要な知識を Julia 言語を使って解説していきます。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### YouTube [Julia でデータサイエンス講座](https://www.youtube.com/playlist?list=PL6uGt3P4egnhIk90hJIgceVYkSa_MxGvl)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 珠理亜(イラスト:たもと)
 
-
-[jekyll-organization]: https://github.com/jekyll
+<amp-img src="https://julia-for-data-science.github.io/images/julia/smile.png" alt="珠理亜" width="500" height="500" layout="responsive" ></amp-img>

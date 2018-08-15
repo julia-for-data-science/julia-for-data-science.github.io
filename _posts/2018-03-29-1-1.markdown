@@ -1,0 +1,16 @@
+---
+layout: post
+title: "1+4+9+16+25+36をΣを用いて表せる"
+date: 2018-03-29 9:41:28 +0900
+youtube: "XvIYMDuNznA"
+updated_at: 2018-03-29 09:41:28 +0900
+categories: statistical-mathematical-foundation
+eyecatch_file: "1-1.png"
+series: "統計数理基礎"
+---
+
+<amp-gist
+  data-gistid="506a6f3071c459c8a506a23b6e6e22f9"
+  layout="fixed-height"
+  height="225">
+</amp-gist>

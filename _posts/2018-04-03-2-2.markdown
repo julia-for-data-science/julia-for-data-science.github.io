@@ -1,0 +1,16 @@
+---
+layout: post
+title: "y=loga(x)の逆関数を説明できる"
+date: 2018-04-03 9:41:28 +0900
+youtube: "3LvwRdl22Ps"
+updated_at: 2018-04-03 09:41:28 +0900
+categories: statistical-mathematical-foundation
+eyecatch_file: "2-2.png"
+series: "統計数理基礎"
+---
+
+<amp-gist
+  data-gistid="f88da8dafc8b7a2679f956ea6d2e3d7d"
+  layout="fixed-height"
+  height="225">
+</amp-gist>
