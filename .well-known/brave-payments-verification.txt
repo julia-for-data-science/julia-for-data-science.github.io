@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: julia-for-data-science.github.io
+Token: efb6add89073b053b517be3e48fbe35d012eb5668ee2339c94f6794ba2189f3e
