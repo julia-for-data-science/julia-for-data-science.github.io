@@ -2,7 +2,7 @@
 layout: post
 title: "オリエンテーション"
 date: 2018-03-28 9:41:28 +0900
-youtube: "Y2duwj5Pc1g"
+youtube: "ACqW6kWtcH4"
 updated_at: 2018-03-28 09:41:28 +0900
 categories: else
 eyecatch_file: "orientation.png"
@@ -44,7 +44,7 @@ series: ""
 
 [https://github.com/JuliaLang/julia/releases](https://github.com/JuliaLang/julia/releases)
 
-<amp-img src="https://i.gyazo.com/9d77ee9b5eb6491b6ffa2e7a2793ed0e.png" alt="julia release" width="784" height="478" layout="responsive" ></amp-img>
+<amp-img src="https://i.gyazo.com/95c0e0b0083942cde3a9a7f06e9a1abe.png" alt="julia release" width="784" height="478" layout="responsive" ></amp-img>
 
 ### Julia 実行環境
 
