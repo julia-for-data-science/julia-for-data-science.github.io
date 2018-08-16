@@ -20,6 +20,24 @@
   <meta name="youtube:description" content='発表資料:{% if page.title %}{{ site.url }}{{ page.url }}{% endif %}この講座では一般社団法人データサイエンティスト協会が公開している、スキルチェックリスト 2017年版を参考にしてデータサイエンティストに必要な知識をJulia言語を使って解説していきます。イラスト:たもと https://tamoto333.jimdo.com'>
   <meta name="youtube:keywords" content='データサイエンス,Julia,Juliaでデータサイエンス,データサイエンティスト,珠理亜,学習,プログラミング,数学,統計,{{ page.series }}'>
 
+  <script type="application/ld+json">
+    {% if page.title %}
+      {
+        "@context": "http://schema.org",
+        "@type": "TechArticle",
+        "image": "{{ site.url }}/images/eyecatches/{{ page.eyecatch_file }}",
+        "url": "{{ site.url }}{{ page.url }}",
+      }
+    {% else %}
+      {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "{{ site.url }}/images/eyecatches/top.png",
+        "url": "{{ site.url }}",
+      }
+    {% endif %}
+  </script>
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
   <!-- for amp -->
